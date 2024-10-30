@@ -1,0 +1,52 @@
+Z:\LSM Mario\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.exe
+Z:\LSM Mario\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.deps.json
+Z:\LSM Mario\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.runtimeconfig.json
+Z:\LSM Mario\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.dll
+Z:\LSM Mario\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.pdb
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.csproj.AssemblyReference.cache
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\home.g.cs
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM_MarkupCompile.cache
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM_MarkupCompile.lref
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\home.baml
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.g.resources
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.GeneratedMSBuildEditorConfig.editorconfig
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.AssemblyInfoInputs.cache
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.AssemblyInfo.cs
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.csproj.CoreCompileInputs.cache
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.dll
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\LSM.dll
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.pdb
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.genruntimeconfig.cache
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\LSM.dll
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Login_page.g.cs
+Z:\LSM Mario\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Login_page.baml
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.exe
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.deps.json
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.runtimeconfig.json
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.dll
+D:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\LSM.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.csproj.AssemblyReference.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\home.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Login_page.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Window1.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM_MarkupCompile.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM_MarkupCompile.lref
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\home.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Login_page.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Window1.baml
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.g.resources
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.AssemblyInfoInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.AssemblyInfo.cs
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.csproj.CoreCompileInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\LSM.dll
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\LSM.genruntimeconfig.cache
+D:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\LSM.dll
